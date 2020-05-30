@@ -1,3 +1,21 @@
-theme: jekyll-theme-cayman
-title: Welcome to my homepage!
-description: Feel free to bookmark this to keep an eye on my project and life updates
+# Welcome to Jekyll!
+#
+# Bote: Config file updates settings affecting the entire site
+# Set up global settings once and update them later, if needed
+# Restart the server to see changes
+
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
+# Site settings
+locale                   : "en-US"
+title                    : "Ameya Harmalkar"
+description              : "Homepage"
+title_separator          : "-"
+name                     : &name "Ameya Harmalkar"
+url                      : https://AmeyaHarmalkar.github.io
+repository               : "AmeyaHarmalkar/AmeyaHarmalkar.github.io"
+#theme                   :
+
