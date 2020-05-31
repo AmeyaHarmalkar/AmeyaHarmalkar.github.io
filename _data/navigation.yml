@@ -11,7 +11,7 @@ main:
   - title: "Projects"
     url: /projects
   - title: "CV"
-    url: #assets/amir_cv19.pdf
+    url: /
   - title: "Teaching"
     url: /teaching
   # - title: "?"
