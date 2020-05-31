@@ -2,7 +2,7 @@
 permalink: /talks/
 layout: single
 author_profile: true
-title: Invited Talks
+title: Talks, Posters and Presentations
 ---
 
 >## 2019
