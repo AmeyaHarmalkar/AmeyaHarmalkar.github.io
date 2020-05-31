@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Ameya"
-  avatar           : #"/assets/images/<somefile.png>"
+  avatar           : "/assets/images/ameya.jpg"
   bio              : "Doctoral candidate <br> <a href='https://engineering.jhu.edu/chembe/' target='_blank'> Chemical and Biomolecular Engineering</a> <a Johns Hopkins University</a>"
   location         : "Baltimore, Maryland"
   email            : harmalkar.ameya24@gmail.com
