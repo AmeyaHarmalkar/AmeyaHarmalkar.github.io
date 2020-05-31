@@ -3,7 +3,8 @@ layout: single
 author_profile: true
 ---
 
-Hey there!
+<!-- <span style="color:#78b3b7">**Hey there!**</span> -->
+**Hey there!**
 I am a PhD candidate in Chemical and Biomolecular Engineering at the Johns Hopkins University, working with Prof. Jeffrey Gray. I obtained my Bachelors in Chemical Engineering from the Institute of Chemical Technology, Mumbai,IN in 2018. 
 
 ## Research 
