@@ -4,10 +4,13 @@ layout: single
 author_profile: true
 title: Talks, Posters and Presentations
 ---
+
 >## 2020
 
 <span style="color:#78b3b7">***Coupling enhanced sampling with Monte Carlo techniques improves flexible backbone docking***</span>, Virtual Rosetta Conference 2020.
 (**Oral presentation**)
+
+<span style="color:#78b3b7">***Reaching a NEW LOW: Leveraging enhanced sampling techniques for global docking of flexible proteins***</span>, Winter Rosetta Conference 2020, New York City, NY, USA. (**Poster presentation**)
 
 >## 2019
 
