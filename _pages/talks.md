@@ -7,6 +7,9 @@ title: Talks, Posters and Presentations
 
 >## 2020
 
+<span style="color:#78b3b7">***Coupling enhanced sampling with Monte Carlo techniques improves flexible backbone docking***</span>, AIChE Annual COnference 2020.
+(**Oral presentation**)
+
 <span style="color:#78b3b7">***Coupling enhanced sampling with Monte Carlo techniques improves flexible backbone docking***</span>, Virtual Rosetta Conference 2020.
 (**Oral presentation**)
 
