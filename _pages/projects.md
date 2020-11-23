@@ -14,5 +14,9 @@ Protein-protein interactions (PPI) govern nearly all of the biological mechanism
 Joint research project in collaboration with Dr. Jamie Spangler and Dr. Warren Grayson.
 The focus of this work to computationally identify plausible mutations on the protein receptor and ligand that can disrupt the interactions with wildtype and develop an orthogonal pair by evolving mutagenic libraries of the ligand.
 
+>##  Utilizing a Colicin-Receptor System for DNA Delivery into E. coli
+
+Joint research project in collaboration with Dr. Colin Kleanthous, University of Oxford, UK.
+
 
 # Past Projects
