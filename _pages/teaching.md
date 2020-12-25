@@ -4,6 +4,13 @@ layout: single
 author_profile: true
 ---
 
+>##  Teaching Assistant, ChemBE 630
+**Thermodynamics, Statistical Mechanics and Kinetics**
+*Johns Hopkins University, Department of Chemical and Biomolecular Engineering*
+
+The core graduate course in Chemical Engineering deals with advanced concepts in Thermodynamics, phase equilibria, statistical mechanics perspective of thermodynamics and its applications in chemical and biological systems. The course is offered to incoming PhD students in the Chemical and Biomolecular Engineering program at Johns Hopkins University.
+
+
 >##  Teaching Assistant, ChemBE 409
 **Modeling, Dynamics and Control of Chemical and Biological Systems**
 *Johns Hopkins University, Department of Chemical and Biomolecular Engineering*
