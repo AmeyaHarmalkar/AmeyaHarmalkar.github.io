@@ -9,7 +9,7 @@ author_profile: true
 
 My review on the recent advances in capturing backbone flexibility in protein docking is accepted in the Current Opinion in Structural Biology. The protein docking field has advanced tremedously in the past few years and we have tried our best to incorporate the recent advances. You can read the article here: <a href="https://doi.org/10.1016/j.sbi.2020.11.011" target="_blank"><img src="../assets/images/bibtex.png" title="bibtex" width="20px"/></a>.
 
-<img src="../assets/images/cosb_graphical.png"  alt="drawing" width="200px"/>
+<img src="../assets/images/cosb_graphical.png"  alt="drawing" width="600px"/>
 
 
 >## Conference talks in RosettaCon 2020 and AICHE 2020
