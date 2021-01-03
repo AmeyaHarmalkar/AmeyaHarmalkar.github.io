@@ -30,6 +30,7 @@ Computational biology | Biomaterial applications | Neural networks
 
 
 ## Previous Positions
+- Teaching Assistant <span style="color:#78b3b7">@</span> [Johns Hopkins University, Thermodynamics, Statistical Mechanics and Kinetics](https://engineering.jhu.edu/chembe/){:target="_blank"}
 - Teaching Assistant <span style="color:#78b3b7">@</span> [Johns Hopkins University, Dynamics, modeling and control of chemical process](https://engineering.jhu.edu/chembe/){:target="_blank"}
 
 ## Industry 
